@@ -1,0 +1,15 @@
+header {
+    padding-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+.dotted {
+    border-bottom: 4px dotted lightcoral;
+    width: 50%;
+    margin: auto;
+}
